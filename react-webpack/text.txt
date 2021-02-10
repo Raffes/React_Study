@@ -1,0 +1,1 @@
+webpack é um module bundler (empacotador de módulos) para JavaScript, em outras palavras, ele junta os arquivos JS (e também outros formatos) da sua aplicação (seja arquivos seus ou dependências externas) em um arquivo só (ou mais de um), de forma otimizada. Os arquivos são unificados na ordem certa, sem duplicação e podem ser minificados para reduzir o tamanho.
